@@ -5,10 +5,10 @@ Part of the online course: [https://www.udemy.com/react-redux](https://www.udemy
 ![App Screenshot](app-screen-shot.png)
 
 ### app.js
-![Code Sample](code1.png?)
+![Code Sample](code1.png?1)
 
 ### weather-list.js
-![Code Sample](code2.png?)
+![Code Sample](code2.png?1)
 
 ### reducer_weather.js
-![Code Sample](code3.png?)
+![Code Sample](code3.png?1)

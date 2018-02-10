@@ -1,7 +1,5 @@
 # React and Redux Weather App
 
-Part of the online course: [https://www.udemy.com/react-redux](https://www.udemy.com/react-redux)
-
 ![App Screenshot](app-screen-shot.png)
 
 ### app.js
@@ -12,3 +10,5 @@ Part of the online course: [https://www.udemy.com/react-redux](https://www.udemy
 
 ### reducer_weather.js
 ![Code Sample](code3.png)
+
+Credit: [https://www.udemy.com/react-redux](https://www.udemy.com/react-redux)
